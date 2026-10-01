@@ -160,34 +160,6 @@
 
 <img src="assets/gradient_divider.svg" width="100%" height="4" />
 
-## 💼 Experience
-
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
-      <h3>MySQL Backend Developer Intern</h3>
-      <p><b>Focus: Database & Query Performance</b></p>
-      <ul>
-        <li>Designed optimized database schemas and relational models.</li>
-        <li>Wrote and tuned complex SQL queries, improving retrieval speeds.</li>
-        <li>Conducted performance profiling and query optimization.</li>
-        <li>Integrated database layer with backend API endpoints.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
-      <h3>Backend Development Intern</h3>
-      <p><b>Dwinsoft Technologies India Pvt. Ltd.</b></p>
-      <ul>
-        <li>Designed and developed REST APIs using Python backend frameworks.</li>
-        <li>Built database integration with SQL storage layers.</li>
-        <li>Collaborated on backend application architecture and schema design.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<img src="assets/gradient_divider.svg" width="100%" height="4" />
-
 ## 🏆 Competitive Programming & Problem Solving
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
