@@ -22,7 +22,6 @@
       <p>📍 Bodinayakanur, Theni, Tamil Nadu, India</p>
       <p>🚀 <b>Developer | Lifelong Learner | Open Source Advocate</b></p>
       <p>Turning complex problems into elegant code. I build secure, high-performance web applications and design intelligent backend systems.</p>
-      <p>🌱 <b>Currently Learning:</b> Spring Boot, System Design, REST API Development, and MySQL Query Optimization.</p>
     </td>
   </tr>
 </table>
