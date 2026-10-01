@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:b300ff,100:ff006e&height=220&section=header&text=GowriSankaran%20G&fontSize=45&animation=fadeIn&theme=dark" width="100%" />
-  
-  <br/>
-  
-  <h1>Hi 👋, I'm GowriSankaran G</h1>
+<h1>Hi 👋, I'm GowriSankaran G</h1>
   
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=JAVA+DEVELOPER;BACKEND+DEVELOPER;SQL+DEVELOPER;PROMPT+ENGINEERING;FRONTEND+(HTML+AND+CSS);TEAM+LEADER;MANAGEMENT" />
 </div>
