@@ -19,7 +19,7 @@
     </td>
     <td width="70%" valign="top" style="border: none; padding-left: 20px;">
       <p>🎓 <b>B.Tech in Computer Science & Business Systems</b> from V.S.B Engineering College</p>
-      <p>📍 Namakkal, Tamil Nadu, India</p>
+      <p>📍 Bodinayakanur, Theni, Tamil Nadu, India</p>
       <p>🚀 <b>Developer | Lifelong Learner | Open Source Advocate</b></p>
       <p>Turning complex problems into elegant code. I build secure, high-performance web applications and design intelligent backend systems.</p>
       <p>🌱 <b>Currently Learning:</b> Spring Boot, System Design, REST API Development, and MySQL Query Optimization.</p>
@@ -61,62 +61,99 @@
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="50%" valign="top" style="border: none; padding: 15px;">
-      <h3>🤖 <a href="https://github.com/gowrisankaran25/API-Security-Review-Agent">API Security Review Agent</a></h3>
-      <p><i>AI-powered security review scanner for REST APIs checking for OWASP API Security Top 10 vulnerabilities.</i></p>
+      <h3>⚡ <a href="https://github.com/gowrisankaran25/NexusOps-Ai-Powered-Operational-Management">NexusOps AI Management Platform</a></h3>
+      <p><i>Full-stack operational command center featuring interactive live maps, RBAC, and an AI decision engine for optimal resource dispatching.</i></p>
       <ul>
-        <li>Automated scans of API specs and routes</li>
-        <li>Generates clear vulnerability reports (Markdown/PDF)</li>
-        <li>Uses Gemini API for automated code reasoning</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_API-blue?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top" style="border: none; padding: 15px;">
-      <h3>🗳️ Online Voting System</h3>
-      <p><i>Secure, real-time voting web application with JWT authentication and live tallying.</i></p>
-      <ul>
-        <li>Responsive React dashboard for voters and admins</li>
-        <li>Secure backend authentication and voting logic</li>
-        <li>Real-time results visualization</li>
+        <li>Real-time command center with interactive Live Map & Socket.IO</li>
+        <li>AI decision engine evaluating workload, distance, & skill matching</li>
+        <li>Role-based access control (RBAC) & automated dispatching</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
       </p>
+      <p>🔗 <a href="http://nexusops-ai-powered-operational-3mr0.onrender.com/"><b>Live Demo</b></a></p>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 15px;">
+      <h3>🚄 <a href="https://github.com/gowrisankaran25/Railway-Track-Fault-Detection">Railway Fault Detection System</a></h3>
+      <p><i>AI-powered infrastructure monitoring platform detecting railway track anomalies using automated drones and ML models.</i></p>
+      <ul>
+        <li>Automated drone fleet monitoring & real-time track anomaly detection</li>
+        <li>Predictive machine learning models for crack & fault identification</li>
+        <li>Sleek React command dashboard for instant safety alerts</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI_%26_ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      </p>
+      <p>🔗 <a href="https://gowrisankaran25.github.io/Railway-Track-Fault-Detection/"><b>Live Demo</b></a></p>
     </td>
   </tr>
   <tr style="border: none;">
     <td width="50%" valign="top" style="border: none; padding: 15px;">
-      <h3>💬 OpenChat</h3>
-      <p><i>Real-time interactive messaging platform built on optimized relational database schemas.</i></p>
+      <h3>💧 <a href="https://github.com/gowrisankaran25/web-based-water-consumption-and-billing-management-platform">Water Billing Platform</a></h3>
+      <p><i>Full-stack web application for managing water utility billing, tariff plans, online payments, and service requests.</i></p>
       <ul>
-        <li>Instant messaging using WebSockets/Polling</li>
-        <li>Normalized database structure for messaging history</li>
-        <li>Session and active user management</li>
+        <li>Automated water tariff calculations & consumption analytics</li>
+        <li>Online payment management & automated invoicing</li>
+        <li>Community service request portal & administrator dashboard</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
+      <p>🔗 <a href="http://web-based-water-consumption-and-billing.onrender.com/"><b>Live Demo</b></a></p>
     </td>
     <td width="50%" valign="top" style="border: none; padding: 15px;">
-      <h3>📝 Student Feedback System</h3>
-      <p><i>Portal for educational institutions to collect, analyze, and manage course feedback.</i></p>
+      <h3>🌾 <a href="https://github.com/gowrisankaran25/agroseva">AgroSeva - Farmer Platform</a></h3>
+      <p><i>Digital web app empowering farmers with essential digital agricultural services, tools, and pricing updates.</i></p>
       <ul>
-        <li>Secure portal with CRUD operations for feedback administration</li>
-        <li>Bootstrap-based interface for students</li>
-        <li>Local SQLite configuration for reliable records</li>
+        <li>User-friendly digital portal tailored for agricultural needs</li>
+        <li>Market pricing insights & community resource updates</li>
+        <li>Responsive mobile-first web interface</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
+      <p>🔗 <a href="http://agroseva-20tq.onrender.com/"><b>Live Demo</b></a></p>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding: 15px;">
+      <h3>🎓 <a href="https://github.com/gowrisankaran25/LearnX-learning-app">LearnX - E-Learning App</a></h3>
+      <p><i>Modern e-learning web platform providing interactive courses and structured learning experiences.</i></p>
+      <ul>
+        <li>Interactive course enrollment & learning module tracking</li>
+        <li>Responsive React user interface with smooth navigation</li>
+        <li>Deployed production frontend on Vercel</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p>🔗 <a href="https://frontend-gsan.vercel.app"><b>Live Demo</b></a></p>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 15px;">
+      <h3>🍔 <a href="https://github.com/gowrisankaran25/BiteBox-food-Delivery-app">BiteBox Food Delivery App</a></h3>
+      <p><i>Interactive food ordering and delivery web app featuring dynamic menus and cart management.</i></p>
+      <ul>
+        <li>Interactive menu catalog & dynamic cart updates</li>
+        <li>Seamless online ordering workflow</li>
+        <li>Hosted live on GitHub Pages</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <p>🔗 <a href="https://gowrisankaran25.github.io/BiteBox-food-Delivery-app/"><b>Live Demo</b></a></p>
     </td>
   </tr>
 </table>
