@@ -210,9 +210,9 @@
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gowrisankaran25/GowriSankaran-G/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gowrisankaran25/GowriSankaran-G/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gowrisankaran25/GowriSankaran-G/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gowrisankaran25/gowrisankaran25/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gowrisankaran25/gowrisankaran25/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gowrisankaran25/gowrisankaran25/output/github-snake.svg">
 </picture>
 
 <img src="assets/gradient_divider.svg" width="100%" height="4" />
